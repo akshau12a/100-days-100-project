@@ -35,9 +35,3 @@ Make sure Python is installed on your system. You can download it from the [offi
 
 ---
 
-## Usage
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/akshau12a/animal-guessing-game.git
