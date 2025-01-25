@@ -16,8 +16,6 @@ A visually engaging clone of Netflix created using **HTML**, **CSS**, and **Java
 - **JavaScript**: For interactivity.
 
 ## Screenshot
-
-![Netflix Clone Screenshot](#)
 > ![Screenshot 2025-01-25 215717](https://github.com/user-attachments/assets/1c40c412-5ff3-4a4d-bde7-003407142709)
 
 ## Animations Included
